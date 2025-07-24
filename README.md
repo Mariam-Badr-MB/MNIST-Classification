@@ -14,13 +14,8 @@ Explore how activation functions and regularization affect neural network perfor
 - **Data Preprocessing**:
   - Normalize pixel values
   - One-hot encode labels  
-- **Model Comparison**:
-  - With and without activation functions
-- **Overfitting Detection**:
-  - Monitor validation loss
-- **Regularization Techniques**:
-  - Dropout
-  - L2 regularization
+- **Build Model **:
+  - With activation functions
 - **Loss & Accuracy Visualization**
 
 ---
